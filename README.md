@@ -53,13 +53,13 @@ My goal is to apply my skills in Data Science and AI to the medical field while 
 <a href="https://twitter.com/Mo_Sa_Shaeerah" target="blank"><img align="center" src="./Social/twitter.svg.png" alt="Mo_Sa-Shaeerah" height="35" width="50" /></a>
 <a href="https://medium.com/@Mo_Sa_Shaeerah" target="blank"><img align="center" src="./Social/medium.svg.jpg" alt="Mo_Sa_Shaeerah" height="35" width="50" /></a>
 <br>
-
+<br>
+ 
 ## Graphs About My Status 📈
 <br>
- <br>
- 
+
 ![img align="left"](https://github-readme-stats.vercel.app/api?username=Mo-Sa-Shaeerah&show_icons=true&theme=gruvbox)
-      <img align="right" width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mo-Sa-Shaeerah&show_icons=true&theme=gruvbox"/>
+      <img align="right" width="42%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mo-Sa-Shaeerah&show_icons=true&theme=gruvbox"/>
 ---
 
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Mo-Sa-Shaeerah&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
