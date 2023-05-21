@@ -47,15 +47,18 @@ My goal is to apply my skills in Data Science and AI to the medical field while 
 <br>
 
 <p align="left">
-<a href="https://www.kaggle.com/mohammedsalf" target="blank"><img align="center" src="./img/kaggle.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mohammed-salf-shaeerah-650418258" target="blank"><img align="center" src="./img/linkedin.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://www.instagram.com/mo_sa_shaeerah/" target="blank"><img align="center" src="./img/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://twitter.com/Mo_Sa_Shaeerah" target="blank"><img align="center" src="./img/twitter.svg" alt="4214976" height="30" width="40" /></a>
-<br>
- <br/>
+<a href="https://www.kaggle.com/mohammedsalf" target="blank"><img align="center" src="./Social/kaggle.svg.jpg" alt="Mo_Sa_Shaeerah" height="35" width="50" /></a>
+<a href="https://linkedin.com/in/mohammed-salf-shaeerah-650418258" target="blank"><img align="center" src="./Social/linkedin.svg.jpg" alt="Mo_Sa_Shaeerah" height="30" width="40" /></a>
+<a href="https://www.instagram.com/mo_sa_shaeerah/" target="blank"><img align="center" src="./Social/instagram.svg.jpg" alt="Mo_Sa_Shaeerah" height="35" width="50" /></a>
+<a href="https://twitter.com/Mo_Sa_Shaeerah" target="blank"><img align="center" src="./Social/twitter.svg.png" alt="Mo_Sa-Shaeerah" height="35" width="50" /></a>
+<a href="https://medium.com/@Mo_Sa_Shaeerah" target="blank"><img align="center" src="./Social/medium.svg.jpg" alt="Mo_Sa_Shaeerah" height="35" width="50" /></a>
 
+<br>
+<br/>
+
+ 
 ![img align="left"](https://github-readme-stats.vercel.app/api?username=Mo-Sa-Shaeerah&show_icons=true&theme=gruvbox)
-      <img align="right" width=290; src="https://github-readme-streak-stats.herokuapp.com/?user=Mo-Sa-Shaeerah&show_icons=true&theme=gruvbox"/>
+      <img align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mo-Sa-Shaeerah&show_icons=true&theme=gruvbox"/>
 ---
 
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Mo-Sa-Shaeerah&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
