@@ -1,3 +1,10 @@
+## **Mohammed Salf Shaeerah🧠**
+![Me](/Me/picture.jpg)
+
+**`Machine Learning Engineer • GP Medical Doctor • Write Philosophy & Arab Poet`**
+
+![Views](https://komarev.com/ghpvc/?username=Mo-Sa-Shaeerah)
+
 ## About Me 🧠👓
 I'm Mohammed, from Iraq 🇮🇶, currently residing in Egypt, I am a student at Benha Medical College, set to graduate in September 2023.        
 
