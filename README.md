@@ -1,11 +1,12 @@
-## **Mohammed Salf Shaeerah🧠**
+## **`Mohammed Salf Shaeerah🧠`**
+
 ![Me](/Me/picture.jpg)
 
 **`Machine Learning Engineer • GP Medical Doctor • Write Philosophy & Arab Poet`**
 
 ![Views](https://komarev.com/ghpvc/?username=Mo-Sa-Shaeerah)
 
-## About Me 🧠👓
+## **`About Me 🧠👓`**
 I'm Mohammed, from Iraq 🇮🇶, currently residing in Egypt, I am a student at Benha Medical College, set to graduate in September 2023.        
 
 - Being flexible and not preferring to restrict my mind to one pathway, I have explored various science fields and found myself falling in love with Data Science & AI.
@@ -14,11 +15,11 @@ I'm Mohammed, from Iraq 🇮🇶, currently residing in Egypt, I am a student at
 Additionally, I possess the ability to write philosophical pieces and Arabic poetry, which makes me a Philosopher & Arab poet 😎.
 
 
-## My Target ⚖️
+## **`My Target ⚖️`**
 My goal is to apply my skills in Data Science and AI to the medical field while maintaining a harmonious balance between my roles as a Data Scientist and a Medical Doctor.
 
 
-## 🛠 Skills
+## **`🛠 Skills`**
 1- Data Analysis By Python Using:
 - Statistical tools
 - numpy, pandas, matplotlib
@@ -33,7 +34,7 @@ My goal is to apply my skills in Data Science and AI to the medical field while 
 - Computer Vision [Image recognition]
 
 
-## Releted to me 🪔
+## **`Releted to me 🪔`**
 👩‍💻 I am currently working as a data science intern at @ShAI company.
 
 🧠 I am continuously expanding my knowledge in data science, AI, and medicine.
@@ -43,8 +44,7 @@ My goal is to apply my skills in Data Science and AI to the medical field while 
 ⚡️ Fun fact: Writing poetry is worth staying up late for.
 <br>
 
-## Connect with me:
-<br>
+## **`Connect with me🔗:`**
 
 <p align="left">
 <a href="https://www.kaggle.com/mohammedsalf" target="blank"><img align="center" src="./Social/kaggle.svg.jpg" alt="Mo_Sa_Shaeerah" height="35" width="50" /></a>
@@ -55,8 +55,7 @@ My goal is to apply my skills in Data Science and AI to the medical field while 
 <br>
 <br>
  
-## Graphs About My Status 📈
-<br>
+## **`Graphs About My Status 📈`**
  
 ![img align="left"](https://github-readme-stats.vercel.app/api?username=Mo-Sa-Shaeerah&show_icons=true&theme=gruvbox)
       <img align="right" width="42%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mo-Sa-Shaeerah&show_icons=true&theme=gruvbox"/>
