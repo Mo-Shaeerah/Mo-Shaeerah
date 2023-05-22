@@ -1,8 +1,8 @@
-## **`Mohammed Salf Shaeerah🧠`**
+## **`Mohammed Salf Shaeerah 🧠`**
 
 ![Me](/Me/picture.jpg)
 
-**`Machine Learning Engineer • GP Medical Doctor • Write Philosophy & Arab Poet`**
+**`Machine Learning Engineer • GP Medical Doctor • Write Philosophy & Arab Poetry`**
 
 ![Views](https://komarev.com/ghpvc/?username=Mo-Sa-Shaeerah)
 
@@ -35,7 +35,7 @@ My goal is to apply my skills in Data Science and AI to the medical field while 
 
 
 ## **`Releted to me 🪔`**
-👩‍💻 I am currently working as a data science intern at @ShAI company.
+👩‍💻 I am currently working as a data scientist intern with ShAI.
 
 🧠 I am continuously expanding my knowledge in data science, AI, and medicine.
 
@@ -44,20 +44,20 @@ My goal is to apply my skills in Data Science and AI to the medical field while 
 ⚡️ Fun fact: Writing poetry is worth staying up late for.
 <br>
 
-## **`Connect with me🔗:`**
+## **`Connect with me 🔗`**
 
 <p align="left">
-<a href="https://www.kaggle.com/mohammedsalf" target="blank"><img align="center" src="./Social/kaggle.svg.jpg" alt="Mo_Sa_Shaeerah" height="35" width="50" /></a>
 <a href="https://linkedin.com/in/mohammed-salf-shaeerah-650418258" target="blank"><img align="center" src="./Social/linkedin.svg.jpg" alt="Mo_Sa_Shaeerah" height="30" width="40" /></a>
-<a href="https://www.instagram.com/mo_sa_shaeerah/" target="blank"><img align="center" src="./Social/instagram.svg.jpg" alt="Mo_Sa_Shaeerah" height="35" width="50" /></a>
-<a href="https://twitter.com/Mo_Sa_Shaeerah" target="blank"><img align="center" src="./Social/twitter.svg.png" alt="Mo_Sa-Shaeerah" height="35" width="50" /></a>
 <a href="https://medium.com/@Mo_Sa_Shaeerah" target="blank"><img align="center" src="./Social/medium.svg.jpg" alt="Mo_Sa_Shaeerah" height="35" width="50" /></a>
+<a href="https://www.kaggle.com/mohammedsalf" target="blank"><img align="center" src="./Social/kaggle.svg.jpg" alt="Mo_Sa_Shaeerah" height="35" width="50" /></a>
+ <a href="https://twitter.com/Mo_Sa_Shaeerah" target="blank"><img align="center" src="./Social/twitter.svg.png" alt="Mo_Sa-Shaeerah" height="35" width="50" /></a>
+ <a href="https://www.instagram.com/mo_sa_shaeerah/" target="blank"><img align="center" src="./Social/instagram.svg.jpg" alt="Mo_Sa_Shaeerah" height="35" width="50" /></a>
 <br>
 <br>
  
 ## **`Graphs About My Status 📈`**
  
-![img align="left"](https://github-readme-stats.vercel.app/api?username=Mo-Sa-Shaeerah&show_icons=true&theme=gruvbox)
+![img align="left" <width="42%">](https://github-readme-stats.vercel.app/api?username=Mo-Sa-Shaeerah&show_icons=true&theme=gruvbox)
       <img align="right" width="42%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mo-Sa-Shaeerah&show_icons=true&theme=gruvbox"/>
 ---
 
