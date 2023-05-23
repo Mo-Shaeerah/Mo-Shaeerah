@@ -10,7 +10,7 @@
 I'm Mohammed, from Iraq 🇮🇶, currently residing in Egypt, I am a student at Benha Medical College, set to graduate in September 2023.        
 
 - Being flexible and not preferring to restrict my mind to one pathway, I have explored various science fields and found myself falling in love with Data Science & AI.
-- 🌱 As a result, I am now a Data Scientist alongside being a GP Medical Doctor.
+- 🌱 As a result, I am now a ML Engineer alongside being a GP Medical Doctor.
 
 Additionally, I possess the ability to write philosophical pieces and Arabic poetry, which makes me a Philosopher & Arab poet 😎.
 
@@ -20,18 +20,11 @@ My goal is to apply my skills in Data Science and AI to the medical field while 
 
 
 ## **`🛠 Skills`**
-1- Data Analysis By Python Using:
-- Statistical tools
-- numpy, pandas, matplotlib
-- seaborn, scipy, plotly express
+1- Data Analysis:
 
 2- Machine learning:
-- Regression algorithms
-- Classification algorithms
-- Clustering algorithms
 
 3- Deep Learning:
-- Computer Vision [Image recognition]
 
 
 ## **`Releted to me 🪔`**
@@ -57,8 +50,9 @@ My goal is to apply my skills in Data Science and AI to the medical field while 
  
 ## **`Graphs About My Status 📈`**
  
-![img align="left" <width="42%">](https://github-readme-stats.vercel.app/api?username=Mo-Sa-Shaeerah&show_icons=true&theme=gruvbox)
+![img align="left"](https://github-readme-stats.vercel.app/api?username=Mo-Sa-Shaeerah&show_icons=true&theme=gruvbox)
       <img align="right" width="42%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mo-Sa-Shaeerah&show_icons=true&theme=gruvbox"/>
 ---
-
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Mo-Sa-Shaeerah&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+ 
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Mo-Sa-Shaeerah&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
