@@ -2,11 +2,13 @@
 
 ![Me](/Me/picture.jpg)
 
-**`Machine Learning Engineer • GP Medical Doctor • Write Philosophy & Arab Poetry`**
 
 ![Views](https://komarev.com/ghpvc/?username=Mo-Sa-Shaeerah)
 
-## **`About Me 🧠👓`**
+**`Machine Learning Engineer • GP Medical Doctor • Write Philosophy & Arab Poetry`**
+
+## **`About Me 🧠👓`** 
+
 I'm Mohammed, from Iraq 🇮🇶, currently residing in Egypt, I am a student at Benha Medical College, set to graduate in September 2023.        
 
 - Being flexible and not preferring to restrict my mind to one pathway, I have explored various science fields and found myself falling in love with Data Science & AI.
