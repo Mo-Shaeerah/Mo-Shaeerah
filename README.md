@@ -12,7 +12,7 @@ I'm Mohammed, from Iraq 🇮🇶, currently residing in Egypt, I am a student at
 - Being flexible and not preferring to restrict my mind to one pathway, I have explored various science fields and found myself falling in love with Data Science & AI.
 - 🌱 As a result, I am now a ML Engineer alongside being a GP Medical Doctor.
 
-Additionally, I possess the ability to write philosophical pieces and Arabic poetry, which makes me a Philosopher & Arab poet 😎.
+Additionally, I possess the ability to write philosophy and Arabic poetry, So I'm a Philosopher & Arab poet 😎.
 
 
 ## **`My Target ⚖️`**
@@ -50,7 +50,7 @@ My goal is to apply my skills in Data Science and AI to the medical field while 
  
 ## **`Graphs About My Status 📈`**
  
-![img align="left" <width="30%">](https://github-readme-stats.vercel.app/api?username=Mo-Sa-Shaeerah&show_icons=true&theme=gruvbox)
+![img align="left" <width="25%">](https://github-readme-stats.vercel.app/api?username=Mo-Sa-Shaeerah&show_icons=true&theme=gruvbox)
       <img align="right" width="42%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mo-Sa-Shaeerah&show_icons=true&theme=gruvbox"/>
 ---
  
