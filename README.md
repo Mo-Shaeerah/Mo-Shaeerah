@@ -50,7 +50,7 @@ My goal is to apply my skills in Data Science and AI to the medical field while 
  
 ## **`Graphs About My Status 📈`**
  
-![img align="left"](https://github-readme-stats.vercel.app/api?username=Mo-Sa-Shaeerah&show_icons=true&theme=gruvbox)
+![img align="left" <width="30%">](https://github-readme-stats.vercel.app/api?username=Mo-Sa-Shaeerah&show_icons=true&theme=gruvbox)
       <img align="right" width="42%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mo-Sa-Shaeerah&show_icons=true&theme=gruvbox"/>
 ---
  
