@@ -21,13 +21,45 @@ Additionally, I possess the ability to write philosophy and Arabic poetry, So I'
 My goal is to apply my skills in Data Science and AI to the medical field while maintaining a harmonious balance between my roles as a Data Scientist and a Medical Doctor.
 
 
-## **`🛠 Skills`**
+## **`Skills 🛠 `**
 1- Data Analysis:
+  <!--Data-Analysis-->
+```mermaid
+graph TD;
+    Data-Analysis-->Python;
+    Data-Analysis-->Statistics;
+    Data-Analysis-->Extract-Insights;
+    Data-Analysis-->EDA;
+    Data-Analysis-->Analysis-libraries;
+    Data-Analysis-->Critical-Thinking;
+   ```
+  
+
 
 2- Machine learning:
+  <!--Machine-Learning-->
+```mermaid
+graph TD;
+    Machine-Learning-->Data;
+    Machine-Learning-->Algorithms;
+    Machine-Learning-->Statistical-Models;
+    Machine-Learning-->Feature-Engineering;
+    Machine-Learning-->Evaluation-Metrics;
+    Machine-Learning-->Deployment;
+   ```
+   
 
 3- Deep Learning:
-
+<!--Deep-Learning-->
+```mermaid
+graph TD;
+    Deep-Learning-->Data;
+    Deep-Learning-->Neural-Networks;
+    Deep-Learning-->Computer-Vision;
+    Deep-Learning-->Tensorflow;
+    Deep-Learning-->Keras;
+    Deep-Learning-->Medical-Uses;
+   ```
 
 ## **`Releted to me 🪔`**
 👩‍💻 I am currently working as a data scientist intern with ShAI.
@@ -55,9 +87,9 @@ My goal is to apply my skills in Data Science and AI to the medical field while 
  <p align=center>
   <div align=center>
     <a href="https://github.com/Mo-Sa-Shaeerah/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Mo-Sa-Shaeerah&theme=react&border=61dafb&hide_border=true" alt="Mo-Sa-Shaeerah" />
+      <img align="right" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Mo-Sa-Shaeerah&theme=react&border=61dafb&hide_border=true" alt="Mo-Sa-Shaeerah" />
     </a>
     <a href="https://github.com/Mo-Sa-Shaeerah/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=Mo-Sa-Shaeerah&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img align="left" width=390 src="https://github-readme-stats.vercel.app/api?username=Mo-Sa-Shaeerah&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
