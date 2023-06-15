@@ -1,4 +1,3 @@
-## **`Mohammed Salf Shaeerah 🧠`**
 
 ![Me](/Me/picture.jpg)
 
@@ -21,7 +20,7 @@ Additionally, I possess the ability to write philosophy and Arabic poetry, So I'
 My goal is to apply my skills in Data Science and AI to the medical field while maintaining a harmonious balance between my roles as a Data Scientist and a Medical Doctor.
 
 
-## **`Skills 🛠 `**
+## **`My Skills 🧑🏻‍💻`**
 1- Data Analysis:
   <!--Data-Analysis-->
 ```mermaid
@@ -61,7 +60,7 @@ graph TD;
     Deep-Learning-->Medical-Uses;
    ```
 
-## **`Releted to me 🪔`**
+## **`Releted To Me 🪔`**
 👩‍💻 I am currently working as a data scientist intern with ShAI.
 
 🧠 I am continuously expanding my knowledge in data science, AI, and medicine.
@@ -71,7 +70,7 @@ graph TD;
 ⚡️ Fun fact: Writing poetry is worth staying up late for.
 <br>
 
-## **`Connect with me 🔗`**
+## **`Connect With Me 📞`**
 
 <p align="left">
 <a href="https://linkedin.com/in/mo-sa-shaeerah" target="blank"><img align="center" src="./Social/linkedin.svg.jpg" alt="Mo_Sa_Shaeerah" height="40" width="70" /></a>
@@ -82,7 +81,7 @@ graph TD;
 <br>
 <br>
  
-## **`Graphs About My Status 📈`**
+## **`My Status In A Graph 🎢`**
 
 <br>
 <p align=center>
