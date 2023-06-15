@@ -99,3 +99,5 @@ graph TD;
   
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Mo-Sa-Shaeerah&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
+
+<img src="https://avatars.githubusercontent.com/u/118655300?s=400&u=1fab6c36a4babe26d7eb3619adc94dabd14a21a5&v=4" alt="Me" width="100%">
