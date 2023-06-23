@@ -82,10 +82,10 @@ graph TD;
 <br/>
 <br/>
 
-## **`Badges & Certificates That i Got`**
+## **`Badges & Certificates That i Got 🧑🏻‍🎓🍂`**
 
 <a href="https://www.credly.com/badges/d5f3edd0-5635-4032-a75d-8da862a7134c/linked_in_profile"><img src="Certificates/WQU.jpg" width="200" height="200"></a>
-
+<a href="https://almdrasa.com/certificate-verification/1454BFDB5-1453C6C2C-127129078/"><img src="Certificates/Git-Github.jpg" width="200" height="200"></a>
 <br/>
 <br/>
 
