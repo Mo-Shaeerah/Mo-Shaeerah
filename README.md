@@ -82,6 +82,12 @@ graph TD;
 <br/>
 <br/>
 
+## **`Badges & Certificates That i Got`**
+
+<a href="https://www.credly.com/badges/d5f3edd0-5635-4032-a75d-8da862a7134c/linked_in_profile"><img src="Social/WQU.jpg" width="200" height="200"></a>
+
+<br/>
+<br/>
 
 ## **`My Status In A Graph 🎢`**
   
