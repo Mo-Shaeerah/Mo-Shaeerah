@@ -78,19 +78,17 @@ graph TD;
 [<img alt="twitter" width="40px" src="./Social/Twitter.png" align="left" style="padding-right:20px;"/>](https://twitter.com/Mo_Sa_Shaeerah)
 [<img alt="instagram" width="40px" src="./Social/Instagram.jpg" align="left" style="padding-right:20px;"/>](https://www.instagram.com/mo_sa_shaeerah/)
 [<img alt="kaggle" width="40px" src="./Social/Kaggle.jpg" align="left" style="padding-right:20px;"/>](https://www.kaggle.com/mohammedsalf)
-
 <br/>
 <br/>
 
 
-## **`My Badges & Certificates 🧑🏻‍🎓🍂`**
+## **`My Badges & Certificates 🍂`**
 
 <a href="https://www.credly.com/badges/d5f3edd0-5635-4032-a75d-8da862a7134c/linked_in_profile"><img src="Certificates/WQU.jpg" width="165" height="180"></a>
 <a href="https://almdrasa.com/certificate-verification/1454BFDB5-1453C6C2C-127129078/"><img src="Certificates/Git-Github.jpg" width="165" height="180"></a>
 <a href="https://www.kaggle.com/learn/certification/mohammedsalf/intro-to-machine-learning"><img src="Certificates/Intro-ML.png" width="165" height="180"></a>
 <a href="https://www.kaggle.com/learn/certification/mohammedaieng/intermediate-machine-learning"><img src="Certificates/Intermediate-ML.jpg" width="165" height="180"></a>
 <a href="https://www.kaggle.com/learn/certification/mohammedaieng/machine-learning-explainability"><img src="Certificates/Explaniability-ML.jpg" width="165" height="180"></a>
-
 <br/>
 <br/>
 
