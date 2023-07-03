@@ -21,7 +21,7 @@ Additionally, I possess the ability to write philosophy and Arabic poetry, So I'
 My goal is to apply my skills in Data Science and AI to the medical field while maintaining a harmonious balance between my roles as a Data Scientist and a Medical Doctor.
 
 
-## **`My Skills 🧑🏻‍💻`**
+## **`My Skills 🤹🏽`**
 1- Data Analysis:
   <!--Data-Analysis-->
 ```mermaid
