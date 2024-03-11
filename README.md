@@ -9,14 +9,19 @@
 
 ## **`Me telling Me 👓`** 
 
-I am always telling myself that if I can understand, I can be a scientist in any field that I am enthusiastic about.
+- I am always telling myself that if I can **`understand 🗝️`**, I can be a **`scientist 🔓`** in any field that I am enthusiastic about.
 
-## **`My Target ⚖️`**
-My goal is to apply my skills in Data Science and AI to the medical field while maintaining a harmonious balance between my roles as a Data Scientist and a Medical Doctor.
+## **`Imagination takes forms 🪐`**
+
+- Imagination has various pathways, and among them is the `dark imagination 🕸️`, which can adversely affect the mental health of the mind that experiences it...
+
+## **`My Goal ⚖️`**
+
+- My goal is to apply my skills in Data Science and AI to the medical field while maintaining a harmonious balance between my roles as a Data Scientist and a Medical Doctor.
 
 
 ## **`My Skills 🤹🏽`**
-1- Data Analysis:
+1- Data Analysis 🧬:
   <!--Data-Analysis-->
 ```mermaid
 graph TD;
@@ -29,7 +34,7 @@ graph TD;
    ```
   
 
-2- Machine learning:
+2- Machine learning 💉:
   <!--Machine-Learning-->
 ```mermaid
 graph TD;
@@ -42,7 +47,7 @@ graph TD;
    ```
    
 
-3- Deep Learning:
+3- Deep Learning 🩺:
 <!--Deep-Learning-->
 ```mermaid
 graph TD;
