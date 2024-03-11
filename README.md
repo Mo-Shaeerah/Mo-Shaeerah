@@ -7,15 +7,9 @@
 **`Machine Learning Engineer • GP Medical Doctor • Write Philosophy & Arab Poetry`**
 
 
-## **`About Me 👓`** 
+## **`Me telling Me 👓`** 
 
-I'm Mohammed, from Iraq 🇮🇶, currently residing in Egypt, I am a student at Benha Medical College, set to graduate in September 2023.        
-
-- Being flexible and not preferring to restrict my mind to one pathway, I have explored various science fields and found myself falling in love with Data Science & AI.
-- 🌱 As a result, I am now a ML Engineer alongside being a GP Medical Doctor.
-
-Additionally, I possess the ability to write philosophy and Arabic poetry, So I'm a Philosopher & Arab poet 😎.
-
+I am always telling myself that if I can understand, I can be a scientist in any field that I am enthusiastic about.
 
 ## **`My Target ⚖️`**
 My goal is to apply my skills in Data Science and AI to the medical field while maintaining a harmonious balance between my roles as a Data Scientist and a Medical Doctor.
@@ -30,7 +24,7 @@ graph TD;
     Data-Analysis-->Statistics;
     Data-Analysis-->Extract-Insights;
     Data-Analysis-->EDA;
-    Data-Analysis-->Analysis-libraries;
+    Data-Analysis-->Decision-Maker;
     Data-Analysis-->Critical-Thinking;
    ```
   
@@ -55,15 +49,15 @@ graph TD;
     Deep-Learning-->Data;
     Deep-Learning-->Neural-Networks;
     Deep-Learning-->Computer-Vision;
-    Deep-Learning-->Tensorflow;
-    Deep-Learning-->Keras;
+    Deep-Learning-->Tensorflow-Keras;
+    Deep-Learning-->CNN-RNN-LSTM;
     Deep-Learning-->Medical-Uses;
    ```
 
 ## **`Releted To Me 🪔`**
 👩‍💻 I am currently working as a data scientist intern with ShAI.
 
-🧠 I am continuously expanding my knowledge in data science, AI, and medicine.
+🧠 I am continuously expanding my knowledge in data science, AI, and medicine 🩺💉.
 
 👯‍♀️ I am open to collaborations with fellow data scientists.
 
