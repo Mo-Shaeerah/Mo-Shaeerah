@@ -11,9 +11,11 @@
 
 - I am always telling myself that if I can **`understand 🗝️`**, I can be a **`scientist 🔓`** in any field that I am enthusiastic about.
 
+
 ## **`Imagination takes forms 🪐`**
 
 - Imagination has various pathways, and among them is the `dark imagination 🕸️`, which can adversely affect the mental health of the mind that experiences it...
+
 
 ## **`My Goal ⚖️`**
 
@@ -21,7 +23,20 @@
 
 
 ## **`My Skills 🤹🏽`**
-1- Data Analysis 🧬:
+
+1- Problem Solving 🩸:
+<!--Problem-Solving-->
+```mermaid
+graph TD;
+    Problem-Solving-->Diagnose;
+    Problem-Solving-->Define;
+    Problem-Solving-->Reframe;
+    Problem-Solving-->Break-it-In-Steps;
+    Problem-Solving-->Vision;
+    Problem-Solving-->Solve;
+   ```
+
+2- Data Analysis 🧬:
   <!--Data-Analysis-->
 ```mermaid
 graph TD;
@@ -34,7 +49,7 @@ graph TD;
    ```
   
 
-2- Machine learning 💉:
+3- Machine learning 💉:
   <!--Machine-Learning-->
 ```mermaid
 graph TD;
@@ -47,7 +62,7 @@ graph TD;
    ```
    
 
-3- Deep Learning 🩺:
+4- Deep Learning 🩺:
 <!--Deep-Learning-->
 ```mermaid
 graph TD;
@@ -57,6 +72,18 @@ graph TD;
     Deep-Learning-->Tensorflow-Keras;
     Deep-Learning-->CNN-RNN-LSTM;
     Deep-Learning-->Medical-Uses;
+   ```
+
+5- Medical-Mindset 🌡️🧪:
+<!--Medical-Mindset-->
+```mermaid
+graph TD;
+    Medical-Mindset-->Brain;
+    Medical-Mindset-->Neuronal-Cells;
+    Medical-Mindset-->Input-Processing-Output;
+    Medical-Mindset-->Diagnosis-Treatment-Prognosis;
+    Medical-Mindset-->Investigate-Every-Sign;
+    Medical-Mindset-->Keep-on-Learning;
    ```
 
 ## **`Releted To Me 🪔`**
