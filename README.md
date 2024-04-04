@@ -1,7 +1,7 @@
 ![Me](/Me/picture.jpg)
 
 
-![Views](https://komarev.com/ghpvc/?username=Mo-Sa-Shaeerah)
+![Views](https://komarev.com/ghpvc/?username=Mo-Shaeerah)
 <a href="https://github.com/Mo-Sa-Shaeerah/Mo-Sa-Shaeerah"><img src="https://img.shields.io/badge/Status-Updating-red.svg"></a>
 
 **`Machine Learning Engineer • GP Medical Doctor • Write Philosophy & Arab Poetry`**
@@ -127,13 +127,13 @@ graph TD;
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Mohammed Salf Shaeerah">
-      <img align="right" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Mo-Sa-Shaeerah&theme=react&border=61dafb&hide_border=true"alt="Mo-Sa-Saheerah" />
+      <img align="right" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Mo-Shaeerah&theme=react&border=61dafb&hide_border=true"alt="Mo-Sa-Saheerah" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Mohammed Salf Shaeerah">
-      <img align="left" width=390 src="https://github-readme-stats.vercel.app/api?username=Mo-Sa-Shaeerah&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img align="left" width=390 src="https://github-readme-stats.vercel.app/api?username=Mo-Shaeerah&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
   </div>
   
-  ![contribution-graph](https://github-readme-activity-graph.vercel.app/graph?username=Mo-Sa-Shaeerah&bg_color=12111d&color=ffffff&line=1055e0&point=00ff11&area=true&hide_border=true)
+  ![contribution-graph](https://github-readme-activity-graph.vercel.app/graph?username=Mo-Shaeerah&bg_color=12111d&color=ffffff&line=1055e0&point=00ff11&area=true&hide_border=true)
