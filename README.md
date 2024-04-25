@@ -17,11 +17,6 @@
 - Imagination has various pathways, and among them is the `dark imagination 🕸️`, which can adversely affect the mental health of the mind that experiences it...
 
 
-## **`My Goal ⚖️`**
-
-- My goal is to apply my skills in Data Science and AI to the medical field while maintaining a harmonious balance between my roles as a Data Scientist and a Medical Doctor.
-
-
 ## **`My Skills 🤹🏽`**
 
 1- Problem Solving 🩸:
@@ -113,7 +108,7 @@ graph TD;
 
 <a href="https://www.credly.com/badges/d5f3edd0-5635-4032-a75d-8da862a7134c/linked_in_profile"><img src="Certificates/WQU.jpg" width="165" height="180"></a>
 <a href="https://www.credly.com/badges/2684c8f4-f801-4b29-89ff-59e6c2ccad28/public_url"><img src="Certificates/mckinsey-forward-program.png" width="165" height="180"></a>
-<a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/d3f5d1a3545c3fa8c49e96dbddc9380a3049b862"><img src="Certificates/WQU.jpg" width="165" height="180"></a>
+<a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/d3f5d1a3545c3fa8c49e96dbddc9380a3049b862"><img src="Certificates/DL-Track.png" width="165" height="180"></a>
 <a href="https://almdrasa.com/certificate-verification/1454BFDB5-1453C6C2C-127129078/"><img src="Certificates/Git-Github.jpg" width="165" height="180"></a>
 <a href="https://www.kaggle.com/learn/certification/mohammedsalf/intro-to-machine-learning"><img src="Certificates/Intro-ML.png" width="165" height="180"></a>
 <a href="https://www.kaggle.com/learn/certification/mohammedaieng/intermediate-machine-learning"><img src="Certificates/Intermediate-ML.jpg" width="165" height="180"></a>
