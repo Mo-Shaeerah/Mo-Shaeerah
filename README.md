@@ -96,7 +96,7 @@ graph TD;
 
 [<img alt="linkedin" width="40px" src="./Social/Linkedin.png" align="left" style="padding-right:20px;"/>](https://linkedin.com/in/mo-sa-shaeerah)
 [<img alt="medium" width="40px" src="./Social/Medium.png" align="left" style="padding-right:20px;"/>](https://medium.com/@Mo_Sa_Shaeerah/)
-[<img alt="twitter" width="40px" src="./Social/Twitter.png" align="left" style="padding-right:20px;"/>](https://twitter.com/Mo_Sa_Shaeerah)
+[<img alt="twitter" width="40px" src="./Social/thr.png" align="left" style="padding-right:20px;"/>](https://threads.net/mo___.Shaeerah)
 [<img alt="instagram" width="40px" src="./Social/Instagram.jpg" align="left" style="padding-right:20px;"/>](https://www.instagram.com/mo_sa_shaeerah/)
 [<img alt="kaggle" width="40px" src="./Social/Kaggle.jpg" align="left" style="padding-right:20px;"/>](https://www.kaggle.com/mohammedsalf)
 [<img alt="youtube" width="42px" src="./Social/Youtube.png" align="left" style="padding-right:20px;"/>](https://www.youtube.com/channel/UCE4Ksc_7mqSqBmTWm-TeWfA)
