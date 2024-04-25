@@ -7,17 +7,17 @@
 **`Machine Learning Engineer • GP Medical Doctor • Write Philosophy & Arab Poetry`**
 
 
-## **`Me telling Me 👓`** 
+## **`Me telling Me 👓👓👓`** 
 
 - I am always telling myself that if I can **`understand 🗝️`**, I can be a **`scientist 🔓`** in any field that I am enthusiastic about.
 
 
-## **`Imagination takes forms 🪐`**
+## **`Imagination takes forms 🪐🪐🪐`**
 
 - Imagination has various pathways, and among them is the `dark imagination 🕸️`, which can adversely affect the mental health of the mind that experiences it...
 
 
-## **`My Skills 🤹🏽`**
+## **`My Skills 🤹🏽🤹🏽🤹🏽`**
 
 1- Problem Solving 🩸:
 <!--Problem-Solving-->
@@ -81,7 +81,7 @@ graph TD;
     Medical-Mindset-->Keep-on-Learning;
    ```
 
-## **`Releted To Me 🪔`**
+## **`Releted To Me 🪔🪔🪔`**
 👩‍💻 I am currently working as a data scientist intern with ShAI.
 
 🧠 I am continuously expanding my knowledge in data science, AI, and medicine 🩺💉.
@@ -92,19 +92,19 @@ graph TD;
 <br>
 
 
-## **`Connect With Me 📞`**
+## **`Connect With Me 📞📞📞`**
 
-[<img alt="linkedin" width="40px" src="./Social/Linkedin.png" align="left" style="padding-right:20px;"/>](https://linkedin.com/in/mo-sa-shaeerah)
+[<img alt="linkedin" width="40px" src="./Social/Linkedin.png" align="left" style="padding-right:20px;"/>](https://linkedin.com/in/mo---shaeerah)
 [<img alt="medium" width="40px" src="./Social/Medium.png" align="left" style="padding-right:20px;"/>](https://medium.com/@Mo_Sa_Shaeerah/)
+[<img alt="instagram" width="40px" src="./Social/inst.png" align="left" style="padding-right:20px;"/>](https://www.instagram.com/mo___.shaeerah/)
 [<img alt="twitter" width="40px" src="./Social/thr.png" align="left" style="padding-right:20px;"/>](https://threads.net/mo___.Shaeerah)
-[<img alt="instagram" width="40px" src="./Social/Instagram.jpg" align="left" style="padding-right:20px;"/>](https://www.instagram.com/mo_sa_shaeerah/)
 [<img alt="kaggle" width="40px" src="./Social/Kaggle.jpg" align="left" style="padding-right:20px;"/>](https://www.kaggle.com/mohammedsalf)
 [<img alt="youtube" width="42px" src="./Social/Youtube.png" align="left" style="padding-right:20px;"/>](https://www.youtube.com/channel/UCE4Ksc_7mqSqBmTWm-TeWfA)
 <br/>
 <br/>
 
 
-## **`My Badges & Certificates 🍂`**
+## **`My Badges & Certificates 🍂🍂🍂`**
 
 <a href="https://www.credly.com/badges/d5f3edd0-5635-4032-a75d-8da862a7134c/linked_in_profile"><img src="Certificates/WQU.jpg" width="165" height="180"></a>
 <a href="https://www.credly.com/badges/2684c8f4-f801-4b29-89ff-59e6c2ccad28/public_url"><img src="Certificates/mckinsey-forward-program.png" width="165" height="180"></a>
@@ -117,7 +117,7 @@ graph TD;
 <br/>
 
 
-## **`My Status In A Graph 🎢`**
+## **`My Status In A Graph 🎢🎢🎢`**
   
 <p align=center>
   <div align=center>
